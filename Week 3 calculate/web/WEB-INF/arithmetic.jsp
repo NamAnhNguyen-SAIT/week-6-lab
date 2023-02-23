@@ -1,8 +1,3 @@
-<%-- 
-    Document   : arithmetic
-    Created on : 22-Feb-2023, 9:43:08 PM
-    Author     : Owner
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
